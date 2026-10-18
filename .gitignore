@@ -22,3 +22,14 @@ venv/
 
 # Operating system files
 .DS_Store
+
+
+
+# Generated model experiment logs
+catboost_info/
+
+# Scorer-generated files
+scorer_results/
+
+# Employer-provided scoring script
+score.py
