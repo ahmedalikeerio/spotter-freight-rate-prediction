@@ -1,0 +1,24 @@
+
+# Employer-provided datasets
+data/
+
+# Local generated outputs
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+.env
+
+# Local trained models
+*.pkl
+*.joblib
+*.cbm
+
+# Operating system files
+.DS_Store
